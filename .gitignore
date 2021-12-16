@@ -1,0 +1,4 @@
+node_modules/*
+public/*
+!public/blue.html
+!public/gray.html
